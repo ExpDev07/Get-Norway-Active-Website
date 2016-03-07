@@ -1,0 +1,48 @@
+h1, a {
+margin: 10px;
+}
+
+p {
+margin: 10px;
+}
+
+h1,h2, h3, h4, h5, h6 {
+    /*font-family: 'Corben', Georgia, Times, serif;*/
+	 color:#ff9400;
+     font-family: 'Lobster';
+     margin: 10px;
+     
+}
+    
+p, div {
+
+    font-family: 'Nobile', Helvetica, Arial, sans-serif;
+}
+
+body {
+
+background-color: #f5f5f5;
+margin: 0;
+
+}
+
+a {
+
+font-family: 'Nobile', Helvetica, Arial, sans-serif;
+text-decoration: none;
+color: #ff9400;
+
+}
+
+.page-header {
+    background-color: #ff9400;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #ffffff;
+    font-size: 40pt;
+    text-decoration: none;
+    
+}
