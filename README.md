@@ -1,2 +1,2 @@
 # Get-Norway-Active-Website
-This is a school project that I created. 
+This website was created as a school project in the MYP design class. 
